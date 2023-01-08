@@ -1,0 +1,16 @@
+.first-div {
+    display: flex;
+    width: 500px;
+    background-color: steelblue;
+    justify-content: center;
+    gap: 20px;
+    height: 250px;
+    border-radius: 30px;
+    
+}
+.image-size {
+    width: 130px;
+    height: 200px;
+    margin-top: 20px;
+}
+            <h1 class="first-text">Shobogun O Samuel</h1>
